@@ -22,6 +22,7 @@ const Sidebar = () => {
       <SidebarRow title="Watch Later" Icon={watchLaterIcon} />
       <SidebarRow title="Liked Videos" Icon={ThumbUpAltOutLinedIcon} />
       <SidebarRow title="Show More" Icon={ExpandMoreOutlinedIcon} />
+      <hr />
     </div>
   );
 };
